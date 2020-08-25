@@ -1,0 +1,16 @@
+[
+  "assets/js/jquery.js",
+  "assets/js/fotorama.js",
+  "assets/js/jquery.fancybox.js",
+  "assets/js/jquery.magnific-popup.min.js",
+  "assets/js/main.js",
+  "assets/js/new.js",
+  "assets/js/messages.js",
+  "vendor/yiisoft/yii2/assets/yii.js",
+  "vendor/yiisoft/yii2/assets/yii.validation.js",
+  "vendor/yiisoft/yii2/assets/yii.activeForm.js",
+  "vendor/yiisoft/yii2/assets/yii.captcha.js",
+  "vendor/bower/jquery-ui/jquery-ui.js",
+  "vendor/bower/yii2-pjax/jquery.pjax.js",
+  "assets/js/redesign.js"
+]
